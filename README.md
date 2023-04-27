@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tonymaung
 - 👀 I’m interested in javascript and ruby
-- 🌱 I’m currently learning ruby on rails
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ... twittter, discord, or email me.
 - Here's my discord link: https://discord.gg/eq8JCWEU
